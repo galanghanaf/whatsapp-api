@@ -1,2 +1,3 @@
-# whatsapp-api
-Simple WhatsApp Gateway
+# Whatsapp Gateway
+
+This project was created for learning purposes.
